@@ -20,7 +20,7 @@ const app = initializeApp(firebaseConfig);
 const db = getDatabase(app);
 
 /* =========================
-   SHAWDY - CONSTANTS
+   MADUWA - CONSTANTS
 ========================= */
 const ADMIN_1 = "94719270005"; // Replace with the actual admin 1 number
 const ADMIN_2 = "94000000000"; // Replace with the actual admin 2 number
@@ -226,7 +226,7 @@ function createPopup() {
 
             <div class="admin-options">
                 <button id="adminBtn1" class="adminBtn" type="button">
-                    <img class="admin-avatar" src="ASSETS/Admins/maduwa-ff.webp" alt="Shawdy admin profile" width="58" height="58">
+                    <img class="admin-avatar" src="ASSETS/Admins/maduwa-ff.webp" alt="Maduwa admin profile" width="58" height="58">
                     <span class="admin-name"><strong>Maduwa FF</strong><small>Store admin 01</small></span>
                     <span class="admin-phone">077 310 9964</span>
                 </button>
@@ -314,12 +314,12 @@ async function handleAdmin(number) {
 ========================= */
 function buyGuild(squads, price) {
     const data = {
-        1: ["3 Bots", "100K - 105K"],
-        2: ["6 Bots", "150K - 200K"],
-        3: ["9 Bots", "250K - 300K"],
-        4: ["12 Bots", "300K - 350K"],
-        5: ["15 Bots", "350K - 400K"],
-        6: ["18 Bots", "400K - 450K"]
+        1: ["4 Bots", "70K–200K"],
+        2: ["8 Bots", "140K–500K"],
+        3: ["12 Bots", "210K–700K"],
+        4: ["16 Bots", "280K–900K"],
+        5: ["20 Bots", "350K–1M"],
+        6: ["24 Bots", "420K–1.5M"]
     }[squads] || ["N/A", "N/A"];
 
     pendingOrder = {
@@ -497,7 +497,7 @@ function buildTopupOrder() {
     ].join("\n"));
 
     const message = [
-        `💎 SHAWDY STORE`,
+        `💎 MADUWA STORE`,
         `TOP-UP ORDER`,
         ``,
         `Hello, I would like to place the following order:`,
