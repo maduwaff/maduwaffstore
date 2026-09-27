@@ -24,8 +24,8 @@ const db = getDatabase(app);
 ========================= */
 const ADMIN_1 = "94719270005"; // Replace with the actual admin 1 number
 const ADMIN_2 = "94000000000"; // Replace with the actual admin 2 number
-const OPEN_TIME = 990;   // 4:30 PM, Colombo time
-const CLOSE_TIME = 1350; // 10:30 PM, Colombo time
+const OPEN_TIME = 420;   // 4:30 PM, Colombo time
+const CLOSE_TIME = 1380; // 10:30 PM, Colombo time
 const STORE_NAME = "MADUWA STORE";
 
 const topupProducts = [
