@@ -51,11 +51,11 @@ const topupProducts = [
     // =========================
     // MEMBERSHIP PACKS
     // =========================
-    { id: "little-pack", category: "membership-pack", name: "Little Pack", price: 1370, image: "ASSETS/Top-Up/Membership-Packs/little-pack.webp" },
-    { id: "vip-pack", category: "membership-pack", name: "VIP PACK", price: 3340, image: "ASSETS/Top-Up/Membership-Packs/vip-pack.webp" },
-    { id: "vip-special", category: "membership-pack", name: "VIP SPECIAL", price: 3460, image: "ASSETS/Top-Up/Membership-Packs/vip-special.webp" },
-    { id: "big-pack", category: "membership-pack", name: "BIG PACK", price: 5020, image: "ASSETS/Top-Up/Membership-Packs/big-pack.webp" },
-    { id: "super-vip", category: "membership-pack", name: "SUPER VIP", price: 6700, image: "ASSETS/Top-Up/Membership-Packs/super-vip.webp" },
+    { id: "little-pack", category: "membership-pack", name: "Little Pack", price: 1600, image: "ASSETS/Top-Up/Membership-Packs/little-pack.webp" },
+    { id: "vip-pack", category: "membership-pack", name: "VIP PACK", price: 3450, image: "ASSETS/Top-Up/Membership-Packs/vip-pack.webp" },
+    { id: "vip-special", category: "membership-pack", name: "VIP SPECIAL", price: 3560, image: "ASSETS/Top-Up/Membership-Packs/vip-special.webp" },
+    { id: "big-pack", category: "membership-pack", name: "BIG PACK", price: 5200, image: "ASSETS/Top-Up/Membership-Packs/big-pack.webp" },
+    { id: "super-vip", category: "membership-pack", name: "SUPER VIP", price: 5160, image: "ASSETS/Top-Up/Membership-Packs/super-vip.webp" },
     { id: "diamond-3000-pack", category: "membership-pack", name: "Diamond × 3000", price: 8600, image: "ASSETS/Top-Up/Membership-Packs/diamond-3000.webp" },
     { id: "diamond-5000-pack", category: "membership-pack", name: "Diamond × 5000", price: 14300, image: "ASSETS/Top-Up/Membership-Packs/diamond-5000.webp" },
     { id: "diamond-8000-pack", category: "membership-pack", name: "Diamond × 8000", price: 23000, image: "ASSETS/Top-Up/Membership-Packs/diamond-8000.webp" },
