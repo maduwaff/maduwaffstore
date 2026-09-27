@@ -32,14 +32,14 @@ const topupProducts = [
     // =========================
     // DIAMONDS
     // =========================
-    { id: "diamond-25", category: "diamond", name: "Diamond × 25", price: 130, image: "ASSETS/Top-Up/Diamonds/diamond-25.webp" },
+    { id: "diamond-25", category: "diamond", name: "Diamond × 25", price: 100, image: "ASSETS/Top-Up/Diamonds/diamond-25.webp" },
     { id: "diamond-100", category: "diamond", name: "Diamond × 100", price: 360, image: "ASSETS/Top-Up/Diamonds/diamond-100.webp" },
     { id: "diamond-310", category: "diamond", name: "Diamond × 310", price: 1100, image: "ASSETS/Top-Up/Diamonds/diamond-310.webp" },
-    { id: "diamond-520", category: "diamond", name: "Diamond × 520", price: 1800, image: "ASSETS/Top-Up/Diamonds/diamond-520.webp" },
+    { id: "diamond-520", category: "diamond", name: "Diamond × 520", price: 1700, image: "ASSETS/Top-Up/Diamonds/diamond-520.webp" },
     { id: "diamond-1060", category: "diamond", name: "Diamond × 1060", price: 3550, image: "ASSETS/Top-Up/Diamonds/diamond-1060.webp" },
-    { id: "diamond-2180", category: "diamond", name: "Diamond × 2180", price: 7100, image: "ASSETS/Top-Up/Diamonds/diamond-2180.webp" },
-    { id: "diamond-5600", category: "diamond", name: "Diamond × 5600", price: 17500, image: "ASSETS/Top-Up/Diamonds/diamond-5600.webp" },
-    { id: "diamond-11500", category: "diamond", name: "Diamond × 11500", price: 36100, image: "ASSETS/Top-Up/Diamonds/diamond-11500.webp" },
+    { id: "diamond-2180", category: "diamond", name: "Diamond × 2180", price: 6800, image: "ASSETS/Top-Up/Diamonds/diamond-2180.webp" },
+    { id: "diamond-5600", category: "diamond", name: "Diamond × 5600", price: 17000, image: "ASSETS/Top-Up/Diamonds/diamond-5600.webp" },
+    { id: "diamond-11500", category: "diamond", name: "Diamond × 11500", price: 34500, image: "ASSETS/Top-Up/Diamonds/diamond-11500.webp" },
 
     // =========================
     // MEMBERSHIP
