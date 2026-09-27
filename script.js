@@ -59,7 +59,7 @@ const topupProducts = [
     { id: "diamond-3000-pack", category: "membership-pack", name: "Diamond × 3000", price: 8600, image: "ASSETS/Top-Up/Membership-Packs/diamond-3000.webp" },
     { id: "diamond-5000-pack", category: "membership-pack", name: "Diamond × 5000", price: 14300, image: "ASSETS/Top-Up/Membership-Packs/diamond-5000.webp" },
     { id: "diamond-8000-pack", category: "membership-pack", name: "Diamond × 8000", price: 23000, image: "ASSETS/Top-Up/Membership-Packs/diamond-8000.webp" },
-    { id: "diamond-10000-pack", category: "membership-pack", name: "Diamond × 10000", price: 36100, image: "ASSETS/Top-Up/Membership-Packs/diamond-10000.webp" }
+    { id: "diamond-10000-pack", category: "membership-pack", name: "Diamond × 10000", price: 28800, image: "ASSETS/Top-Up/Membership-Packs/diamond-10000.webp" }
 ];
 
 /* =========================
